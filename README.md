@@ -13,10 +13,6 @@
 
 <p><h4><strong>경기게임마이스터고</strong> 재학중입니다.<br><br>
 
-| **학년** | **반** | **번호** |
-|:--------:|:--------:|:--------:|
-| **1학년** | **1반** | **2번** |
-
 <h2 align="left">정보</h2>
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=umasuegiru&theme=calm)](https://github.com/umasuegiru)
